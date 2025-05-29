@@ -2,3 +2,4 @@ capitals = ["Washington", "Ottawa", "Canberra", "London", "Berlin", "Tokyo", "Pa
 capital = input("Enter Capital: ")
 print("You entered:", capital)
 print("v-gmalinov")
+print("v-gmalinov")
